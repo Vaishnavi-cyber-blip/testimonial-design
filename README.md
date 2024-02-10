@@ -14,6 +14,8 @@ The slider component is fully responsive, allowing users to scroll through items
 #### Customizable Content:
 The slider component easily supports various types of content, including images, text, and custom components.
 
+## The image of Testimonial section
+
 
 
 
